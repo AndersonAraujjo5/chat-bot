@@ -1,0 +1,47 @@
+2023/01/29-10:21:48.594 4d30 Reusing MANIFEST C:\Users\ander\OneDrive\Desktop\pontoData\ChatBoot\tokens\teste 2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/29-10:21:48.595 4d30 Recovering log #15
+2023/01/29-10:21:48.604 4d30 Reusing old log C:\Users\ander\OneDrive\Desktop\pontoData\ChatBoot\tokens\teste 2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
+2023/01/29-10:21:48.605 4d30 Delete type=2 #14
+2023/01/29-10:21:48.661 4744 Level-0 table #20: started
+2023/01/29-10:21:48.667 4744 Level-0 table #20: 80253 bytes OK
+2023/01/29-10:21:48.669 4744 Delete type=0 #15
+2023/01/29-10:21:48.670 4744 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 10192 : 1
+2023/01/29-10:21:48.670 4744 Compacting 1@0 + 1@1 files
+2023/01/29-10:21:48.680 4744 Generated table #21@0: 3483 keys, 49087 bytes
+2023/01/29-10:21:48.680 4744 Compacted 1@0 + 1@1 files => 49087 bytes
+2023/01/29-10:21:48.680 4744 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/29-10:21:48.681 4744 Delete type=2 #20
+2023/01/29-10:21:48.683 4744 Manual compaction at level-0 from '\x00\x0b.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 10192 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/29-10:21:48.685 4744 Level-0 table #23: started
+2023/01/29-10:21:48.688 4744 Level-0 table #23: 1425 bytes OK
+2023/01/29-10:21:48.689 4744 Delete type=2 #17
+2023/01/29-10:21:48.689 4744 Delete type=0 #19
+2023/01/29-10:21:48.690 4744 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x05\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11741 : 0
+2023/01/29-10:21:48.690 4744 Compacting 1@0 + 1@1 files
+2023/01/29-10:21:48.699 4744 Generated table #24@0: 3399 keys, 47398 bytes
+2023/01/29-10:21:48.699 4744 Compacted 1@0 + 1@1 files => 47398 bytes
+2023/01/29-10:21:48.700 4744 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/29-10:21:48.700 4744 Delete type=2 #23
+2023/01/29-10:21:48.701 4744 Manual compaction at level-0 from '\x00\x0a\x05\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11741 : 0 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/29-10:21:48.702 3fcc Level-0 table #26: started
+2023/01/29-10:21:48.705 3fcc Level-0 table #26: 507 bytes OK
+2023/01/29-10:21:48.707 3fcc Delete type=2 #21
+2023/01/29-10:21:48.707 3fcc Delete type=0 #22
+2023/01/29-10:21:48.710 3fcc Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x02\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11770 : 0
+2023/01/29-10:21:48.710 3fcc Compacting 1@0 + 1@1 files
+2023/01/29-10:21:48.718 3fcc Generated table #27@0: 3374 keys, 46639 bytes
+2023/01/29-10:21:48.719 3fcc Compacted 1@0 + 1@1 files => 46639 bytes
+2023/01/29-10:21:48.719 3fcc compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/29-10:21:48.720 3fcc Delete type=2 #26
+2023/01/29-10:21:48.722 3fcc Manual compaction at level-0 from '\x00\x09\x02\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11770 : 0 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/29-10:21:48.760 3fcc Level-0 table #29: started
+2023/01/29-10:21:48.765 3fcc Level-0 table #29: 14487 bytes OK
+2023/01/29-10:21:48.768 3fcc Delete type=2 #24
+2023/01/29-10:21:48.768 3fcc Delete type=0 #25
+2023/01/29-10:21:48.770 3fcc Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x06 \x03\x00\x00\x00\x00\x00\x80V@\x00\x01\x0b\x00I\x00d\x00T\x00t\x00l\x009\x000\x00D\x00a\x00y\x00s' @ 12187 : 0
+2023/01/29-10:21:48.770 3fcc Compacting 1@0 + 1@1 files
+2023/01/29-10:21:48.778 3fcc Generated table #30@0: 2973 keys, 25165 bytes
+2023/01/29-10:21:48.778 3fcc Compacted 1@0 + 1@1 files => 25165 bytes
+2023/01/29-10:21:48.779 3fcc compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/29-10:21:48.780 3fcc Delete type=2 #29
+2023/01/29-10:21:48.781 3fcc Manual compaction at level-0 from '\x00\x08\x06 \x03\x00\x00\x00\x00\x00\x80V@\x00\x01\x0b\x00I\x00d\x00T\x00t\x00l\x009\x000\x00D\x00a\x00y\x00s' @ 12187 : 0 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
